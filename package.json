@@ -1,0 +1,8 @@
+{
+  "name": "judo-heroes",
+  "version": "1.0.0",
+  "description": "Node Express app tutorial",
+  "main": "index.js",
+  "author": "Silvia Rebelo",
+  "license": "ISC"
+}
